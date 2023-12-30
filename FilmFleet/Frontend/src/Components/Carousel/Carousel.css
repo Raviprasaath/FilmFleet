@@ -1,0 +1,15 @@
+
+.swiper-button-prev:after, .swiper-button-next:after {
+    color: rgb(14, 247, 235) !important;
+    transition: 0.2s;
+    font-size: 20px !important;
+}
+
+.swiper-button-prev:hover, .swiper-button-next:hover {
+    transition: 0.5s;
+    background-color: azure;
+}
+
+.swiper-button-prev, .swiper-button-next {
+    margin-top: -40px !important;
+}
